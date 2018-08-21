@@ -1,7 +1,9 @@
 # title
+
 ##getting-clean-data
 
 # decription
+
 the aim of this project is to create a tidy dataset from the data obtained from
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
