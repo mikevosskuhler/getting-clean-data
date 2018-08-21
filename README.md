@@ -1,6 +1,4 @@
-# title
-
-## getting-clean-data
+# getting-clean-data
 
 # decription
 
@@ -16,5 +14,5 @@ how the script works is documented in the comments as a part of the script itsel
 ## dataset.txt
 the tidy dataset
 
-## codebook
+## xcodebook
 file decribing the variables of the data

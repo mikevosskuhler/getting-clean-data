@@ -1,9 +1,9 @@
-#variables
+# variables
 
-###subjects
+### subjects
 each number repressents an unique observation
 
-###activities
+### activities
 1. laying
 2. sitting
 3. standing
@@ -11,11 +11,11 @@ each number repressents an unique observation
 5. walking downstairs
 6. walking upstairs
 
-###other features
+### other features
 * mean: the mean of the variable
 * std: standard deviation of the variables
 
-####variables
+#### variables
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
 * tBodyAccJerk-XYZ
