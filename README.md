@@ -7,12 +7,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 #files in this repo
 
-###run_analysis.R
+##run_analysis.R
 a script that tidies the data after a directory containing the data has been added
 how the script works is documented in the comments as a part of the script itself
 
-###dataset.txt
+##dataset.txt
 the tidy dataset
 
-###codebook
+##codebook
 file decribing the variables of the data
